@@ -1,5 +1,5 @@
 # AppIcons
-Temporary
+Temporary.
 
 Back Icon   : https://image.ibb.co/gMFNTz/back.png
 Export Icon : https://image.ibb.co/k8Nmoz/export.png
